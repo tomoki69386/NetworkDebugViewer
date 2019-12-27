@@ -17,8 +17,6 @@ github "tomoki69386/NetworkDebugViewer"
 $ carthage update
 ```
 
-
-
 # Usage
 
 ```swift
